@@ -7,10 +7,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        opa_bg: '#ffcdb2',
+        opa_bg: '#ffb4a2',
+        opa_light: '#ffcdb2',
         opa_dark: '#6d6875',
-        opa_main: '#ffb4a2',
-        opa_second: '#5e989b',
+        opa_main: '#5e989b',
         opa_brown: '#b5838d'
       }
     },
